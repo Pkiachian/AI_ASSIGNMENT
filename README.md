@@ -208,4 +208,4 @@ jupyter notebook notebooks/Titanic_Analysis.ipynb
 ---
 
 ## Author
-Titanic Assignment - AI Assignment 2 (2026)
+Ian Pkiach Lokur
